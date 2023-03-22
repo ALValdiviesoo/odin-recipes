@@ -1,1 +1,1 @@
-This is my first project for The Odin project. This project includes basic HTML knowledge.
+This is my first project for The Odin project. This project includes basic HTML knowledge. This is the first version of this project. It will be updated after finishing the other projects for TOP.
